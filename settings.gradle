@@ -1,0 +1,2 @@
+rootProject.name = "Multimulti"
+include ':app'
